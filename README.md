@@ -1,6 +1,6 @@
 # MTUROUTE
 
-This is a fork of MTUROUTE from elifulkerson.com
+This is a fork of MTUROUTE from Eli Fulkerson (elifulkerson.com)
 
 ## Build
 
