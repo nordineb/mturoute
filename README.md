@@ -10,7 +10,6 @@ msbuild /t:rebuild mturoute.sln
 
 ## Alternative
 
-ICMP protocol is not permitted through  Azure load balancers, so it's not possible to use mturoute. Instead, it's possible to use tracepath with the option -p
 ```
 docker run -it alpine
   / # apk add --no-cache iputils
